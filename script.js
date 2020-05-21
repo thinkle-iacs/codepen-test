@@ -1,5 +1,5 @@
 const game = new GameCanvas('game');
-
+console.log('Can I legit edit at github???');
 function makePaddle () {
   var paddle = {
     x : 100,
